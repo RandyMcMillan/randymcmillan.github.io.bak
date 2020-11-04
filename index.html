@@ -4745,10 +4745,10 @@ Core client.</p></li>
 <div class="section" id="adding-editing-and-viewing-changes-locally">
 <h4>Adding, editing and viewing changes locally<a class="headerlink" href="#adding-editing-and-viewing-changes-locally" title="Permalink to this headline">¶</a></h4>
 </div>
-<div class="section" id="github">
-<h4>github<a class="headerlink" href="#github" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="git-clone">
+<h4>git clone<a class="headerlink" href="#git-clone" title="Permalink to this headline">¶</a></h4>
+<p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/RandyMcMillan/randymcmillan.github.io.git</span></code></p>
 <p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/RandyMcMillan/randymcmillan.keybase.pub.git</span></code></p>
-<p><code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/randymcmillan.keybase.pub</span></code></p>
 </div>
 <div class="section" id="keybase">
 <h4>keybase<a class="headerlink" href="#keybase" title="Permalink to this headline">¶</a></h4>
@@ -4757,14 +4757,18 @@ Core client.</p></li>
 </div>
 <div class="section" id="local-build">
 <h4>local build<a class="headerlink" href="#local-build" title="Permalink to this headline">¶</a></h4>
-<p>After any changes are made, run the following from your <cite>~/keybase-user.keybase.pub</cite> directory in order to clear the contents of the output directory and rebuild the html files:</p>
+<p>After any changes are made, run the following from your <cite>~/&lt;keybase-user&gt;.keybase.pub</cite> directory in order to clear the contents of the output directory and rebuild the html files:</p>
+<p><code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/randymcmillan.keybase.pub</span></code></p>
+</div>
+<div class="section" id="id1">
+<h4>local build<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h4>
 <p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">&amp;&amp;</span> <span class="pre">make</span> <span class="pre">html</span></code></p>
-<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">&amp;&amp;</span> <span class="pre">make</span> <span class="pre">keybase-public</span></code></p>
+<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">keybase-public</span></code></p>
 </div>
 <div class="section" id="or">
 <h4>OR<a class="headerlink" href="#or" title="Permalink to this headline">¶</a></h4>
 <p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">&amp;&amp;</span> <span class="pre">make</span> <span class="pre">html</span></code></p>
-<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">&amp;&amp;</span> <span class="pre">make</span> <span class="pre">gh-pages</span></code></p>
+<p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">gh-pages</span></code></p>
 <p>To view the generated html files, navigate to <code class="docutils literal notranslate"><span class="pre">_build/html/</span></code> and open <code class="docutils literal notranslate"><span class="pre">index.html</span></code> in your browser.</p>
 </div>
 </div>
