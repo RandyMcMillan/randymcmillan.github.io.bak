@@ -405,7 +405,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
 /* Table */
 
 /* Enable wrapping of text to remove horizontal scroll bar */
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 100%) {
 
   .wy-table-responsive table td {
       white-space: normal !important;
