@@ -28,10 +28,10 @@ TRAVIS-CI
    +-------------------------------------------------------------------------------------------------------------------------------+
    |                                                                                                                               |
    |                                                                                                                               |
-   | This is a paragraph that contains `a link1`_.                                                                                  |
+   | This is a paragraph that contains `a link1`_.                                                                                 |
    |                                                                                                                               |
    |                                                                                                                               |
-   | .. _a link1: https://travis-ci.org/github/bitcoin/bitcoin/builds                                                               |
+   | .. _a link1: https://travis-ci.org/github/bitcoin/bitcoin/builds                                                              |
    |                                                                                                                               |
    | .. include:: ./_static/hr.md                                                                                                  |
    |                                                                                                                               |
@@ -54,7 +54,12 @@ TRAVIS-CI
 
 
 This is a paragraph that contains `a link3`_.
+This is a paragraph that contains `a link4`_.
 
-.. _a link3: https://domain.invalid/
+.. _a link3: https://travis-ci.org/github/bitcoin/bitcoin/builds
+
+.. include:: ./_static/hr.md
+
+.. _a link4: https://travis-ci.org/github/bitcoin/bitcoin/builds
 
 .. include:: ./_static/hr.md
