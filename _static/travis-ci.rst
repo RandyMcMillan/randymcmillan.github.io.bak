@@ -53,8 +53,8 @@ TRAVIS-CI
 
 
 
-This is a paragraph that contains `a link`_.
+This is a paragraph that contains `a link3`_.
 
-.. _a link: https://domain.invalid/
+.. _a link3: https://domain.invalid/
 
 .. include:: ./_static/hr.md
