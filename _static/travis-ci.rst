@@ -28,4 +28,8 @@ TRAVIS-CI
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
+This is a paragraph that contains `a link`_.
+
+.. _a link: https://domain.invalid/
+
 .. include:: ./_static/hr.md
