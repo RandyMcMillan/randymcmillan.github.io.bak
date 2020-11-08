@@ -15,8 +15,7 @@ TRAVIS-CI
    | .. image:: https://travis-ci.org/bitcoin-core/gui.svg?branch=master                                                           |
    |    :target: https://travis-ci.org/bitcoin-core/gui                                                                            |
    |                                                                                                                               |
-   +-------------------------------------------------------------------------------------------------------------------------------+
-   | .. image:: _static/bitcoin.svg        .. toctree::                                                                            |
+   |                                       .. toctree::                                                                            |
    |                                          :maxdepth: 1                                                                         |
    |                                                                                                                               |
    |                                                                                                                               |
