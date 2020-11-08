@@ -31,11 +31,12 @@ TRAVIS-CI
    | This is a paragraph that contains `a link`_.                                                                                  |
    |                                                                                                                               |
    |                                                                                                                               |
-   | .. _a link: https://domain.invalid/                                                                                           |
+   | .. _a link: https://travis-ci.org/github/bitcoin/bitcoin/builds                                                               |
    |                                                                                                                               |
    | .. include:: ./_static/hr.md                                                                                                  |
    |                                                                                                                               |
    |                                                                                                                               |
+   +-------------------------------------------------------------------------------------------------------------------------------+
    |                                                                                                                               |
    |                                                                                                                               |
    |                                                                                                                               |
