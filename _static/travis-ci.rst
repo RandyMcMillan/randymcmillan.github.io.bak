@@ -15,11 +15,11 @@ TRAVIS-CI
    | .. image:: https://travis-ci.org/bitcoin-core/gui.svg?branch=master                                                           |
    |    :target: https://travis-ci.org/bitcoin-core/gui                                                                            |
    |                                                                                                                               |
-   |                                       .. toctree::                                                                            |
-   |                                          :maxdepth: 1                                                                         |
+   | .. toctree::                                                                                                                  |
+   |    :maxdepth: 1                                                                                                               |
    |                                                                                                                               |
    |                                                                                                                               |
-   |                                          travis-ci.org/bitcoin/bitcoin <https://travis-ci.org/github/bitcoin/bitcoin/builds>  |
+   |    travis-ci.org/bitcoin/bitcoin <https://travis-ci.org/github/bitcoin/bitcoin/builds>                                        |
    |                                                                                                                               |
    +-------------------------------------------------------------------------------------------------------------------------------+
 
