@@ -2,9 +2,10 @@
 TRAVIS-CI
 #########
 
+
 .. include:: ./_static/hr.md
 .. table::
-   :class: header-table
+   :class: wy-table-responsive
    :align: left
    :widths: 20 80
 
