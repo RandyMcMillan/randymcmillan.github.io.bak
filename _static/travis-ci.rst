@@ -20,6 +20,7 @@ TRAVIS-CI
    |                                                                                                                               |
    |                                                                                                                               |
    |    travis-ci.org/bitcoin/bitcoin <https://travis-ci.org/github/bitcoin/bitcoin/builds>                                        |
+   |    travis-ci.org/bitcoin-core/gui <https://travis-ci.org/github/bitcoin-core/gui/builds>                                      |
    |                                                                                                                               |
    |                                                                                                                               |
    |                                                                                                                               |
