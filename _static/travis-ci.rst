@@ -5,7 +5,6 @@ TRAVIS-CI
 
 .. include:: ./_static/hr.md
 .. table::
-   :class: wy-table-responsive
    :align: left
    :widths: 20 80
 
