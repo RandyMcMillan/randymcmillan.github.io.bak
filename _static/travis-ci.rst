@@ -24,9 +24,6 @@ TRAVIS-CI
    +-------------------------------------------------------------------------------------------------------------------------------+
 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 This is a paragraph that contains `a link`_.
 
