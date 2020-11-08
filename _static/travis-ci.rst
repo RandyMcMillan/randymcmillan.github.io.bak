@@ -39,10 +39,10 @@ TRAVIS-CI
    +-------------------------------------------------------------------------------------------------------------------------------+
    |                                                                                                                               |
    |                                                                                                                               |
-   | This is a paragraph that contains `a link`_.                                                                                  |
+   | This is a paragraph that contains `a link2`_.                                                                                  |
    |                                                                                                                               |
    |                                                                                                                               |
-   | .. _a link: https://travis-ci.org/github/bitcoin-core/gui/builds                                                              |
+   | .. _a link2: https://travis-ci.org/github/bitcoin-core/gui/builds                                                              |
    |                                                                                                                               |
    | .. include:: ./_static/hr.md                                                                                                  |
    |                                                                                                                               |
