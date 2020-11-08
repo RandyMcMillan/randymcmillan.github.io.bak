@@ -28,6 +28,9 @@ TRAVIS-CI
    +-------------------------------------------------------------------------------------------------------------------------------+
    |                                                                                                                               |
    |                                                                                                                               |
+   | .. image:: https://travis-ci.org/bitcoin-core/gui.svg?branch=master                                                           |
+   |    :target: https://travis-ci.org/bitcoin-core/gui                                                                            |
+   |                                                                                                                               |
    | This is a paragraph that contains `a link1`_.                                                                                 |
    |                                                                                                                               |
    |                                                                                                                               |
