@@ -60,6 +60,6 @@ This is a paragraph that contains `a link4`_.
 
 .. include:: ./_static/hr.md
 
-.. _a link4: https://travis-ci.org/github/bitcoin/bitcoin/builds
+.. _a link4: https://travis-ci.org/github/bitcoin-core/gui/builds
 
 .. include:: ./_static/hr.md
