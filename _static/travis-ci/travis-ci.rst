@@ -19,7 +19,7 @@ TRAVIS-CI
    +--------------------------------------------------------------------------+--------------------------------------------------------+
 
 
-.. _travis-ci.org/github/randymcmillan/bitcoin/builds:  https://travis-ci.org/github/randymcmillan/bitcoin/builds
+.. _travis-ci.com/github/randymcmillan/bitcoin/builds:  https://travis-ci.com/github/randymcmillan/bitcoin/builds
 .. _travis-ci.org/github/randymcmillan/gui/builds: https://travis-ci.org/github/randymcmillan/gui/builds
 
 .. include:: ./_static/hr.md
