@@ -1,6 +1,3 @@
-GITHUB.COM/RANDYMCMILLAN
-------------------------
-
 .. table::
    :align: center
    :widths: 5 95
