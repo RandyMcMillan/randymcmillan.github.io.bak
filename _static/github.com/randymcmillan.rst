@@ -15,12 +15,12 @@ GITHUB.COM/RANDYMCMILLAN
    +--------------------------------------------------------------------------+--------------------------------------------------------+
    | .. image:: _static/icons/GitHub-Mark-64px.png                            |                                                        |
    |                                                                          |                                                        |
-   |                                                                          | `travis-ci.org/github/bitcoin-core/gui/builds`_        |
+   |                                                                          | `github.com/sponsors/RandyMcMillan`_                   |
    +--------------------------------------------------------------------------+--------------------------------------------------------+
 
 
 .. _randymcmillan.github.io:  https://randymcmillan.github.io
-.. _travis-ci.org/github/bitcoin-core/gui/builds: https://travis-ci.org/github/bitcoin-core/gui/builds
+.. _github.com/sponsors/RandyMcMillan: https://github.com/sponsors/RandyMcMillan
 
 .. include:: ./_static/hr.md
 
