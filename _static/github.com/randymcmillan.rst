@@ -7,11 +7,11 @@ GITHUB.COM/RANDYMCMILLAN
    :widths: 5 95
 
    +--------------------------------------------------------------------------+--------------------------------------------------------+
-   |                                                                          | REPO                                                   |
+   | GITHUB                                                                   | REPO                                                   |
    +--------------------------------------------------------------------------+--------------------------------------------------------+
    | .. image:: _static/icons/GitHub-Mark-64px.png                            |                                                        |
    |                                                                          |                                                        |
-   |                                                                          | `travis-ci.org/github/bitcoin/bitcoin/builds`_         |
+   |                                                                          | `randymcmillan.github.io`_                             |
    +--------------------------------------------------------------------------+--------------------------------------------------------+
    | .. image:: _static/icons/GitHub-Mark-64px.png                            |                                                        |
    |                                                                          |                                                        |
@@ -19,7 +19,7 @@ GITHUB.COM/RANDYMCMILLAN
    +--------------------------------------------------------------------------+--------------------------------------------------------+
 
 
-.. _travis-ci.org/github/bitcoin/bitcoin/builds:  https://travis-ci.org/github/bitcoin/bitcoin/builds
+.. _randymcmillan.github.io:  https://randymcmillan.github.io
 .. _travis-ci.org/github/bitcoin-core/gui/builds: https://travis-ci.org/github/bitcoin-core/gui/builds
 
 .. include:: ./_static/hr.md
